@@ -1,3 +1,5 @@
 check git commit
 
 branch: mybranch
+
+added some text
