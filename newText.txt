@@ -1,1 +1,3 @@
 some random text
+
+added some line to test auto merge
