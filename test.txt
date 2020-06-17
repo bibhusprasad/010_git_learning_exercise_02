@@ -3,3 +3,7 @@ check git commit
 branch: mybranch
 
 added some text
+
+
+added one line for conflict resolution
+added two line for conflict resolution
