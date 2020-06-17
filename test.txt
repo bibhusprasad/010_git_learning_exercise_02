@@ -3,3 +3,6 @@ check git commit
 branch: mybranch
 
 added some text
+
+add one line for conflict in master branch
+add two line for conflict in master branch
