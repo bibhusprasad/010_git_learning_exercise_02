@@ -4,5 +4,9 @@ branch: mybranch
 
 added some text
 
+
 add one line for conflict in master branch
 add two line for conflict in master branch
+
+added one line for conflict resolution
+added two line for conflict resolution
