@@ -1,3 +1,8 @@
 some random text
 
 added some line to test auto merge
+
+
+change for rebase
+------------
+added rebase comment2
