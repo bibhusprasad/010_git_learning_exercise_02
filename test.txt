@@ -14,3 +14,8 @@ added two line for conflict resolution
 changes for rebase
 ------------------
 added rebase comment1
+
+
+changes for rebase conflict
+----------------------
+added rebase conflict comment1
