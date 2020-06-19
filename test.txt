@@ -20,3 +20,5 @@ changes for rebase conflict
 ----------------------
 added rebase conflict comment1
 added rebase conflict comment2
+
+rebase conflict comment1
